@@ -60,5 +60,5 @@ int main()
         s[i].display();
     }
 
-    return 0;
+    return 0 ;
 }
